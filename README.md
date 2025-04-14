@@ -10,10 +10,32 @@ Updated: *14 Apr 2025*
 	- Create entries
 		- Name
 		- Artist
-		- Category
+		- Category (Paintings, Photography, Websites)
 		- Image url
 		- Color plane url
 		- Oklch colors
+
+		```
+		{
+		  "posts": [
+		    {
+		      "name": "A Dreary Day",
+		      "artist": "Greg Rutkowski",
+		      "category": "paintings",
+		      "image": "https://thekymchee.github.io/found_color_schemes/00_images/greg-rutkowski-street-study-1600.jpg",
+		      "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-greg-rutkowski-street-study-1600.svg",
+		      "colors": [
+		        "oklch(24.93% 0.0102 80.61)",
+		        "oklch(36.57% 0.0052 121.72)",
+		        "oklch(56.8% 0.0077 145.47)",
+		        "oklch(66.15% 0.0045 121.6)",
+		        "oklch(86.22% 0.0061 350.82)"
+		      ]
+		  	}
+ 		  ]
+ 		}
+
+		```
 
 	- Run FCS Sublime Text script to add:
 		- Color name tags
@@ -35,13 +57,16 @@ Updated: *14 Apr 2025*
 
 	## TODO
 
-	- [ ] Credit artistpigments.org for color planes
+	- [x] Credit artistpigments.org for color planes
 	- [ ] Hover over card to make 'close' button more visible.
 	- [ ] Check tablet, mobile, and extra large breakpoints
-	- [ ] Clean up styles
+	- [x] Clean up styles
 	- [x] Add json and csv to repo
 	- [ ] Add other categories (animation)
-			- Need to create space in the design
+		- Need to create space in the design
+	- [ ] Fix Webflow audit issues
+		- [x] Image alt text
+		- [ ] Non-descriptive link content
 
 
 
