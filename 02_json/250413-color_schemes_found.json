@@ -1,0 +1,450 @@
+{
+  "posts": [
+    {
+      "title": "A Dreary Day",
+      "artist": "Greg Rutkowski",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/greg-rutkowski-street-study-1600.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-greg-rutkowski-street-study-1600.svg",
+      "colors": [
+        "oklch(24.93% 0.0102 80.61)",
+        "oklch(36.57% 0.0052 121.72)",
+        "oklch(56.8% 0.0077 145.47)",
+        "oklch(66.15% 0.0045 121.6)",
+        "oklch(86.22% 0.0061 350.82)"
+      ],
+      "id_number": 351607,
+      "tags": [
+        "gray"
+      ],
+      "hex_colors": [
+        "#24211c",
+        "#3e3f3c",
+        "#747874",
+        "#929390",
+        "#d5d0d2"
+      ]
+    },
+    {
+      "title": "Lighthouse Storm",
+      "artist": "Greg Rutkowski",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/greg-rutkowski-storm-02-1920.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-greg-rutkowski-storm-02-1920.svg",
+      "colors": [
+        "oklch(29.88% 0.0075 3.85)",
+        "oklch(38.87% 0.0308 97.61)",
+        "oklch(48.17% 0.0054 34.3)",
+        "oklch(70.8% 0.0279 76.71)",
+        "oklch(85.79% 0.0177 103.19)"
+      ],
+      "id_number": 956379,
+      "tags": [
+        "gray"
+      ],
+      "hex_colors": [
+        "#312c2d",
+        "#494532",
+        "#615d5c",
+        "#ab9f8e",
+        "#d2d1c4"
+      ]
+    },
+    {
+      "title": "Sunset Ship",
+      "artist": "Greg Rutkowski",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/greg-rutkowski-ship-scene-2-1500.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-greg-rutkowski-ship-scene-2-1500.svg",
+      "colors": [
+        "oklch(29.8% 0.0309 51.64)",
+        "oklch(40.04% 0.0191 67.23)",
+        "oklch(53.99% 0.0077 28.87)",
+        "oklch(67.8% 0.0508 55.38)",
+        "oklch(79.33% 0.1229 53.72)"
+      ],
+      "id_number": 753146,
+      "tags": [
+        "orange",
+        "gray"
+      ],
+      "hex_colors": [
+        "#3a291f",
+        "#4f463d",
+        "#736d6c",
+        "#b1907a",
+        "#f9a56d"
+      ]
+    },
+    {
+      "title": "Boy Portrait",
+      "artist": "Greg Rutkowski",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/greg-rutkowski-quick-portrait-1200.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-greg-rutkowski-quick-portrait-1200.svg",
+      "colors": [
+        "oklch(18.9% 0.0032 196.89)",
+        "oklch(31.57% 0.0642 50.96)",
+        "oklch(60.67% 0.1275 71.18)",
+        "oklch(78.89% 0.1503 88.92)",
+        "oklch(89.71% 0.0744 81.95)"
+      ],
+      "id_number": 611123,
+      "tags": [
+        "orange yellow",
+        "orange",
+        "black",
+        "yellow"
+      ],
+      "hex_colors": [
+        "#121414",
+        "#4b2710",
+        "#b1730c",
+        "#e1b42b",
+        "#f6d9a5"
+      ]
+    },
+    {
+      "title": "Chimney Skyline",
+      "artist": "Greg Rutkowski",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/greg-rutkowski-chimneys-study-1600.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-greg-rutkowski-chimneys-study-1600.svg",
+      "colors": [
+        "oklch(22.01% 0.0598 318.69)",
+        "oklch(39.27% 0.0884 14.09)",
+        "oklch(56.28% 0.1527 32.38)",
+        "oklch(75.9% 0.1299 60.76)",
+        "oklch(66.63% 0.0688 54.01)",
+        "oklch(50.6% 0.0289 317.67)"
+      ],
+      "id_number": 884579,
+      "tags": [
+        "gray",
+        "violet red",
+        "violet",
+        "orange",
+        "brown"
+      ],
+      "hex_colors": [
+        "#26102c",
+        "#6d2f37",
+        "#be4b36",
+        "#ec9c54",
+        "#b6896c",
+        "#6c6070"
+      ]
+    },
+    {
+      "title": "Castle Waterfall",
+      "artist": "Greg Rutkowski",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/greg-rutkowski-castle-demo-1500.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-greg-rutkowski-castle-demo-1500.svg",
+      "colors": [
+        "oklch(27.1% 0.0212 99.71)",
+        "oklch(36.94% 0.0366 83.15)",
+        "oklch(46.73% 0.0714 41.25)",
+        "oklch(59.72% 0.0447 63.16)",
+        "oklch(80.47% 0.034 91.71)",
+        "oklch(56.53% 0.0201 192.26)"
+      ],
+      "id_number": 794626,
+      "tags": [
+        "gray",
+        "brown"
+      ],
+      "hex_colors": [
+        "#29271b",
+        "#493e29",
+        "#7c4c3a",
+        "#937a64",
+        "#c7bfa7",
+        "#697a79"
+      ]
+    },
+    {
+      "title": "Portrait of a Man",
+      "artist": "John Singer Sargent",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/j_singer_sargent-09.810_PS6.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-j_singer_sargent-09.810_PS6.svg",
+      "colors": [
+        "oklch(71.9% 0.0879 79.02)",
+        "oklch(44.25% 0.0425 258.81)",
+        "oklch(27.85% 0.0034 164.82)",
+        "oklch(42.62% 0.012 125.92)",
+        "oklch(51.68% 0.0247 115.89)",
+        "oklch(74.76% 0.0324 115.2)"
+      ],
+      "id_number": 631546,
+      "tags": [
+        "orange yellow",
+        "gray"
+      ],
+      "hex_colors": [
+        "#c29e63",
+        "#45546b",
+        "#272928",
+        "#4d5049",
+        "#676a5a",
+        "#acb099"
+      ]
+    },
+    {
+      "title": "Haybale",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-fullsize_3_4.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-fullsize_3_4.svg",
+      "colors": [
+        "oklch(50.49% 0.0379 174.25)",
+        "oklch(34.94% 0.0206 118.88)",
+        "oklch(52.28% 0.0702 56.06)",
+        "oklch(76.3% 0.0957 81.37)",
+        "oklch(85.25% 0.0734 80.19)",
+        "oklch(94.14% 0.0161 99)"
+      ],
+      "id_number": 184259,
+      "tags": [
+        "orange",
+        "gray",
+        "yellow",
+        "white"
+      ],
+      "hex_colors": [
+        "#4e6c63",
+        "#393c30",
+        "#895f41",
+        "#d1ac69",
+        "#e8ca98",
+        "#eeece0"
+      ]
+    },
+    {
+      "title": "Golden Harvest",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-golden_harvest.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-golden_harvest.svg",
+      "colors": [
+        "oklch(60.42% 0.0508 211.48)",
+        "oklch(27.17% 0.0377 35.33)",
+        "oklch(36.53% 0.0657 58.17)",
+        "oklch(47.87% 0.1177 30.71)",
+        "oklch(64.48% 0.0733 80.35)",
+        "oklch(90.79% 0.0162 114.4)"
+      ],
+      "id_number": 472462,
+      "tags": [
+        "gray",
+        "green blue",
+        "orange",
+        "brown",
+        "white"
+      ],
+      "hex_colors": [
+        "#5d8a93",
+        "#37201a",
+        "#583518",
+        "#943f32",
+        "#a58959",
+        "#e0e2d6"
+      ]
+    },
+    {
+      "title": "By the Trough",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-by_the_trough.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-by_the_trough.svg",
+      "colors": [
+        "oklch(21.22% 0.0266 47.41)",
+        "oklch(44.99% 0.0918 59.08)",
+        "oklch(68.81% 0.1391 69.63)",
+        "oklch(80.97% 0.0613 83.43)",
+        "oklch(86.47% 0.0201 87.52)"
+      ],
+      "id_number": 853199,
+      "tags": [
+        "orange",
+        "gray",
+        "yellow",
+        "yellow orange"
+      ],
+      "hex_colors": [
+        "#23150e",
+        "#7a4718",
+        "#d18922",
+        "#d4be94",
+        "#d8d2c4"
+      ]
+    },
+    {
+      "title": "Early Trackwork",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-early_trackwork.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-early_trackwork.svg",
+      "colors": [
+        "oklch(20.8% 0.0193 242.2)",
+        "oklch(31.19% 0.0322 229.6)",
+        "oklch(45.17% 0.0525 32.67)",
+        "oklch(83.21% 0.0679 80.77)",
+        "oklch(89.41% 0.0055 95.11)"
+      ],
+      "id_number": 549108,
+      "tags": [
+        "gray",
+        "brown"
+      ],
+      "hex_colors": [
+        "#101920",
+        "#1f343e",
+        "#704b43",
+        "#dfc496",
+        "#dddcd8"
+      ]
+    },
+    {
+      "title": "Evening Promenade",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-evening_promenade.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-evening_promenade.svg",
+      "colors": [
+        "oklch(35.6% 0.0209 313.36)",
+        "oklch(46.83% 0.0349 233.24)",
+        "oklch(55.99% 0.0537 316.05)",
+        "oklch(67.49% 0.066 48.74)",
+        "oklch(88.88% 0.0035 174.47)"
+      ],
+      "id_number": 622186,
+      "tags": [
+        "violet",
+        "gray",
+        "red orange"
+      ],
+      "hex_colors": [
+        "#403944",
+        "#475e6b",
+        "#816b8a",
+        "#b98b73",
+        "#d8dbda"
+      ]
+    },
+    {
+      "title": "Grandmother's Backyard",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-grandmothers_backyard.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-grandmothers_backyard.svg",
+      "colors": [
+        "oklch(35.6% 0.0209 313.36)",
+        "oklch(46.83% 0.0349 233.24)",
+        "oklch(55.99% 0.0537 316.05)",
+        "oklch(67.49% 0.066 48.74)",
+        "oklch(88.88% 0.0035 174.47)"
+      ],
+      "id_number": 493756,
+      "tags": [
+        "violet",
+        "gray",
+        "red orange"
+      ],
+      "hex_colors": [
+        "#403944",
+        "#475e6b",
+        "#816b8a",
+        "#b98b73",
+        "#d8dbda"
+      ]
+    },
+    {
+      "title": "La Bella Luna",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-la_bella_luna.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-la_bella_luna.svg",
+      "colors": [
+        "oklch(36.1% 0.0396 35.67)",
+        "oklch(38.64% 0.0119 204.79)",
+        "oklch(56.75% 0.0416 174.68)",
+        "oklch(69.5% 0.0037 325.62)",
+        "oklch(86.93% 0.0243 63.45)"
+      ],
+      "id_number": 474361,
+      "tags": [
+        "gray"
+      ],
+      "hex_colors": [
+        "#50362f",
+        "#3d4647",
+        "#5d7f75",
+        "#9e9c9e",
+        "#e0d1c4"
+      ]
+    },
+    {
+      "title": "Late Summer",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-late_summer.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-late_summer.svg",
+      "colors": [
+        "oklch(15.43% 0 102.07)",
+        "oklch(42.3% 0.1051 288.87)",
+        "oklch(88.97% 0.0029 308.42)",
+        "oklch(75.71% 0.0806 86.01)",
+        "oklch(62.06% 0.0886 82.01)",
+        "oklch(43.83% 0.0817 48.34)"
+      ],
+      "id_number": 534980,
+      "tags": [
+        "gray",
+        "yellow",
+        "black",
+        "violet blue",
+        "brown"
+      ],
+      "hex_colors": [
+        "#0c0c0c",
+        "#4d4283",
+        "#dbdadc",
+        "#c7ad74",
+        "#a18144",
+        "#764327"
+      ]
+    },
+    {
+      "title": "Market Zagreb",
+      "artist": "Joseph Zbukvic",
+      "category": "painting",
+      "image": "https://thekymchee.github.io/found_color_schemes/images/zbukvic-market_zagreb.jpg",
+      "plane": "https://thekymchee.github.io/found_color_schemes/color_planes/color_plane-zbukvic-market_zagreb.svg",
+      "colors": [
+        "oklch(39.81% 0.058 52.07)",
+        "oklch(57.57% 0.0695 39.56)",
+        "oklch(67.74% 0.1017 62.7)",
+        "oklch(88.67% 0.0207 74.64)",
+        "oklch(68.19% 0.0104 188.94)",
+        "oklch(31.65% 0.0428 269.15)"
+      ],
+      "id_number": 810990,
+      "tags": [
+        "gray",
+        "orange",
+        "yellow orange",
+        "brown"
+      ],
+      "hex_colors": [
+        "#603e29",
+        "#9d6b5a",
+        "#c48952",
+        "#e2d8cb",
+        "#929b9a",
+        "#293148"
+      ]
+    }
+  ]
+}
