@@ -3,7 +3,7 @@
     {
       "title": "Piazza de Populi",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-piazza_de_populi.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-piazza_de_populi.svg",
       "colors": [
@@ -32,7 +32,7 @@
     {
       "title": "Safe Harbour",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-safe_harbour.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-safe_harbour.svg",
       "colors": [
@@ -58,7 +58,7 @@
     {
       "title": "Spring Healsvile",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-spring_healsvile.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-spring_healsvile.svg",
       "colors": [
@@ -87,7 +87,7 @@
     {
       "title": "Spring Pasture",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-spring_pasture.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-spring_pasture.svg",
       "colors": [
@@ -115,7 +115,7 @@
     {
       "title": "Sunday on the Yarra",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-sunday_on_the_yarra.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-sunday_on_the_yarra.svg",
       "colors": [
@@ -142,7 +142,7 @@
     {
       "title": "The Approaching Storm",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-the_approaching_storm.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-the_approaching_storm.svg",
       "colors": [
@@ -169,7 +169,7 @@
     {
       "title": "The Lagoon",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-the_lagoon.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-the_lagoon.svg",
       "colors": [
@@ -198,7 +198,7 @@
     {
       "title": "The Promenade",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-the_promenade.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-the_promenade.svg",
       "colors": [
@@ -225,7 +225,7 @@
     {
       "title": "The Saw Mill in Buccan",
       "artist": "Joseph Zbukvic",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/zbukvic-the_saw_mill_in_buccan.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-zbukvic-the_saw_mill_in_buccan.svg",
       "colors": [
@@ -252,7 +252,7 @@
     {
       "title": "Canyon Saddle",
       "artist": "Edgar Payne",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-2021481-1.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-payne-2021481-1.svg",
       "colors": [
@@ -282,8 +282,8 @@
     {
       "title": "Blue Canyon",
       "artist": "Edgar Payne",
-      "category": "painting",
-      "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-BlueCanyon.jpg",
+      "category": "paintings",
+      "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-BlueCanyon.png",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-payne-BlueCanyon.svg",
       "colors": [
         "oklch(58.97% 0.0411 316.09)",
@@ -311,7 +311,7 @@
     {
       "title": "High Surf",
       "artist": "Edgar Payne",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-High_Surf_along_the_Laguna_Coast.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-payne-High_Surf_along_the_Laguna_Coast.svg",
       "colors": [
@@ -342,7 +342,7 @@
     {
       "title": "Mountain Lake",
       "artist": "Edgar Payne",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-H0045-L00317575.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-payne-H0045-L00317575.svg",
       "colors": [
@@ -368,7 +368,7 @@
     {
       "title": "Sepia Trees",
       "artist": "Edgar Payne",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-H0045-L13553914.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-payne-H0045-L13553914.svg",
       "colors": [
@@ -396,7 +396,7 @@
     {
       "title": "Calm Sailing",
       "artist": "Edgar Payne",
-      "category": "painting",
+      "category": "paintings",
       "image": "https://thekymchee.github.io/found_color_schemes/00_images/payne-H0045-L18856858.jpg",
       "plane": "https://thekymchee.github.io/found_color_schemes/01_color_planes/color_plane-payne-H0045-L18856858.svg",
       "colors": [
