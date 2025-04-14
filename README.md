@@ -67,6 +67,7 @@ Updated: *14 Apr 2025*
 	- [ ] Fix Webflow audit issues
 		- [x] Image alt text
 		- [ ] Non-descriptive link content
+	- [ ] Update Sublime plugin to export next to file
 
 
 
