@@ -68,6 +68,10 @@ Updated: *14 Apr 2025*
 		- [x] Image alt text
 		- [ ] Non-descriptive link content
 	- [ ] Update Sublime plugin to export next to file
+	- [x] Add 'any' and 'all' filter toggle
+	- [x] Fix infinite scroll issues
+		- [x] Newly loaded items do not load interactions
+		- [x] Newly loaded items do not load 'copy to clipboard'
 
 
 
