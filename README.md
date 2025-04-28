@@ -72,6 +72,9 @@ Updated: *14 Apr 2025*
 	- [x] Fix infinite scroll issues
 		- [x] Newly loaded items do not load interactions
 		- [x] Newly loaded items do not load 'copy to clipboard'
+	- [x] Added Nocodelytics analytics
+		- [x] Added tracking from FCS to portfolio
+		- [x] Added tracking from FCS artistpigments.org
 
 
 
